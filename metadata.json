@@ -1,0 +1,6 @@
+{
+  "name": "Bellweather Audio Studio",
+  "description": "An editorial text-to-voice studio for transforming literary stories and scripts into expressive natural speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
